@@ -1,0 +1,26 @@
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\bin\Debug\finnalBTL.exe.config
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\bin\Debug\finnalBTL.exe
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\bin\Debug\finnalBTL.pdb
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.csproj.AssemblyReference.cache
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.csproj.SuggestedBindingRedirects.cache
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.Form1.resources
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.Properties.Resources.resources
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.csproj.GenerateResource.cache
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.csproj.CoreCompileInputs.cache
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.exe
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.pdb
+D:\2022-2023\Lập trình trực quan\project\finnalBTL\obj\Debug\finnalBTL.formMain.resources
+E:\FileDownload\finnalBTL (1)\bin\Debug\finnalBTL.exe.config
+E:\FileDownload\finnalBTL (1)\bin\Debug\finnalBTL.exe
+E:\FileDownload\finnalBTL (1)\bin\Debug\finnalBTL.pdb
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.csproj.AssemblyReference.cache
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.csproj.SuggestedBindingRedirects.cache
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.Properties.Resources.resources
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.csproj.GenerateResource.cache
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.csproj.CoreCompileInputs.cache
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.exe
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.pdb
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.frmDangNhap.resources
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.frmTrangChu.resources
+E:\FileDownload\finnalBTL (1)\bin\Debug\Guna.UI2.dll
+E:\FileDownload\finnalBTL (1)\obj\Debug\finnalBTL.csproj.CopyComplete
